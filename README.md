@@ -1,5 +1,7 @@
 # Bilirkişi raporu kontrol listesi
 
+![](assets/banner.png)
+
 Bilirkişi raporunun teslimden önce biçim ve usul yönünden gözden geçirilmesi için genel bir liste. 8 bölümde 40 madde bulunur; ilgili maddelerde mevzuat atfı verilmiştir.
 
 ## Dosyalar
