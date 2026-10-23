@@ -1,0 +1,250 @@
+{
+  "title": "Expert report checklist (Turkey)",
+  "version": "1.1.0",
+  "date": "2026-10-23",
+  "license": "CC-BY-4.0",
+  "language": "en",
+  "item_count": 40,
+  "items": [
+    {
+      "id": "gorev-01",
+      "section": "Appointment and time limit",
+      "item": "The appointing authority, case number and date of appointment have been checked.",
+      "source": null
+    },
+    {
+      "id": "gorev-02",
+      "section": "Appointment and time limit",
+      "item": "It has been assessed whether the question falls within the field of expertise; if it does not, or if cooperation with another expert is needed, the authority was notified within one week.",
+      "source": "HMK art. 275/1; Expert Witness Regulation art. 53"
+    },
+    {
+      "id": "gorev-03",
+      "section": "Appointment and time limit",
+      "item": "Before starting the examination, it has been assessed whether there is any kinship, business relationship or other ground requiring recusal with respect to the parties.",
+      "source": "HMK art. 272; Expert Witness Regulation art. 9/3, art. 53"
+    },
+    {
+      "id": "gorev-04",
+      "section": "Appointment and time limit",
+      "item": "The deadline for the assignment has been noted.",
+      "source": "HMK art. 274/1; CMK art. 66/1; Expert Witness Regulation art. 52/1"
+    },
+    {
+      "id": "gorev-05",
+      "section": "Appointment and time limit",
+      "item": "If the time limit is insufficient, a reasoned request for extension was made before it expired.",
+      "source": "HMK art. 274/1; CMK art. 66/1; Expert Witness Regulation art. 52/1"
+    },
+    {
+      "id": "gorev-06",
+      "section": "Appointment and time limit",
+      "item": "Where the scope or limits of the assignment were unclear, clarification was requested from the authority.",
+      "source": "HMK art. 278/2; Expert Witness Regulation art. 54/2"
+    },
+    {
+      "id": "dosya-01",
+      "section": "Review of the case file",
+      "item": "The case file and annexes received have been compared against the index of documents; any missing items have been listed.",
+      "source": null
+    },
+    {
+      "id": "dosya-02",
+      "section": "Review of the case file",
+      "item": "Additional records and documents needed for the examination were requested from the authority within one week.",
+      "source": "HMK art. 275/2; Expert Witness Regulation art. 54/1"
+    },
+    {
+      "id": "dosya-03",
+      "section": "Review of the case file",
+      "item": "The questions of the authority have been listed one by one, and the place in the report where each will be answered has been identified.",
+      "source": null
+    },
+    {
+      "id": "dosya-04",
+      "section": "Review of the case file",
+      "item": "The information and documents in the file have been kept confidential and not shared with third parties or with external services unrelated to the case.",
+      "source": "Law No. 6754 art. 3/5; HMK art. 277"
+    },
+    {
+      "id": "dosya-05",
+      "section": "Review of the case file",
+      "item": "The examination was carried out in person; no part of the assignment was delegated to anyone else.",
+      "source": "Law No. 6754 art. 3/4; HMK art. 276"
+    },
+    {
+      "id": "kesif-01",
+      "section": "Site inspection and examination",
+      "item": "Where an examination of an object is required, it has been confirmed that the authority has issued a decision for it.",
+      "source": "HMK art. 278/4"
+    },
+    {
+      "id": "kesif-02",
+      "section": "Site inspection and examination",
+      "item": "Persons present during the site inspection or examination have been recorded.",
+      "source": null
+    },
+    {
+      "id": "kesif-03",
+      "section": "Site inspection and examination",
+      "item": "Findings have been recorded with place, date and time; photographs have been numbered.",
+      "source": null
+    },
+    {
+      "id": "kesif-04",
+      "section": "Site inspection and examination",
+      "item": "Where information is to be obtained from the parties, the approval of the authority was sought; one party was not heard in the absence of the other.",
+      "source": "HMK art. 278/3"
+    },
+    {
+      "id": "kesif-05",
+      "section": "Site inspection and examination",
+      "item": "No conversation outside the scope of the file was held with the parties during the site inspection, and no opinion was expressed.",
+      "source": "Expert Witness Regulation art. 8/2"
+    },
+    {
+      "id": "yapi-01",
+      "section": "Structure of the report",
+      "item": "The appointing authority, case number, party details, date of appointment and time limit have been stated.",
+      "source": "Expert Witness Regulation art. 55/1-a, b, c, ç; HMK art. 279/2"
+    },
+    {
+      "id": "yapi-02",
+      "section": "Structure of the report",
+      "item": "The subject of the examination, the material elements to be examined and a list of the documents examined have been given.",
+      "source": "Expert Witness Regulation art. 55/1-d, e"
+    },
+    {
+      "id": "yapi-03",
+      "section": "Structure of the report",
+      "item": "The method of examination and its scientific and technical basis have been stated.",
+      "source": "Expert Witness Regulation art. 55/1-f, g"
+    },
+    {
+      "id": "yapi-04",
+      "section": "Structure of the report",
+      "item": "Each question has received a separate, reasoned answer; no question has been left unanswered.",
+      "source": "Expert Witness Regulation art. 55/1-ğ; CMK art. 67/1"
+    },
+    {
+      "id": "yapi-05",
+      "section": "Structure of the report",
+      "item": "The conclusion has been read against the assessment section to confirm there is no contradiction between them.",
+      "source": null
+    },
+    {
+      "id": "yapi-06",
+      "section": "Structure of the report",
+      "item": "Where there is more than one expert, any dissenting opinion has been written with its reasons.",
+      "source": "HMK art. 279/2; CMK art. 67/2; Expert Witness Regulation art. 55/2"
+    },
+    {
+      "id": "yapi-07",
+      "section": "Structure of the report",
+      "item": "The date of the report and the identity and signature details of the expert have been included.",
+      "source": "Expert Witness Regulation art. 55/1-h, ı; HMK art. 279/2"
+    },
+    {
+      "id": "yapi-08",
+      "section": "Structure of the report",
+      "item": "The format has been compared with the report templates and guiding principles of the Expert Witness Department.",
+      "source": "Expert Witness Department (Bilirkişilik Daire Başkanlığı), report templates and guiding principles"
+    },
+    {
+      "id": "dil-01",
+      "section": "Language and limits",
+      "item": "The report has been confined to matters whose resolution requires expertise or special or technical knowledge.",
+      "source": "Law No. 6754 art. 3/2; HMK art. 279/4; CMK art. 67/3"
+    },
+    {
+      "id": "dil-02",
+      "section": "Language and limits",
+      "item": "No legal characterisation or assessment reserved to the judge has been made.",
+      "source": "Law No. 6754 art. 3/2; HMK art. 279/4; CMK art. 67/3; Expert Witness Regulation art. 55/4"
+    },
+    {
+      "id": "dil-03",
+      "section": "Language and limits",
+      "item": "The language is impartial; there is no wording that favours or disparages either party.",
+      "source": "Law No. 6754 art. 3/1"
+    },
+    {
+      "id": "dil-04",
+      "section": "Language and limits",
+      "item": "Assumptions have been clearly identified as assumptions, and their basis has been stated.",
+      "source": null
+    },
+    {
+      "id": "dil-05",
+      "section": "Language and limits",
+      "item": "No expert opinion, consultancy or similar work was accepted from the parties during the assignment.",
+      "source": "Expert Witness Regulation art. 9/2"
+    },
+    {
+      "id": "dil-06",
+      "section": "Language and limits",
+      "item": "Any unethical or unlawful request received has been reported to the authority.",
+      "source": "Expert Witness Regulation art. 13"
+    },
+    {
+      "id": "ekler-01",
+      "section": "Annexes and signature",
+      "item": "Annexes such as diagrams, sketches, photographs and tables have been numbered, referred to in the text, and match the list of annexes exactly.",
+      "source": "Expert Witness Regulation art. 55/3"
+    },
+    {
+      "id": "ekler-02",
+      "section": "Annexes and signature",
+      "item": "Personal data has been included only to the extent required by the purpose of the report.",
+      "source": null
+    },
+    {
+      "id": "ekler-03",
+      "section": "Annexes and signature",
+      "item": "The report has been signed with a secure electronic signature.",
+      "source": "Expert Witness Regulation art. 85/5"
+    },
+    {
+      "id": "uyap-01",
+      "section": "Submission via UYAP",
+      "item": "The report has been uploaded to the correct file and the correct authority through the UYAP Expert Portal (UYAP Bilirkişi Portal).",
+      "source": "Expert Witness Regulation art. 85/5"
+    },
+    {
+      "id": "uyap-02",
+      "section": "Submission via UYAP",
+      "item": "The uploaded file has been opened to confirm it is the final version and the annexes are complete.",
+      "source": null
+    },
+    {
+      "id": "uyap-03",
+      "section": "Submission via UYAP",
+      "item": "The submission date is within the time limit given.",
+      "source": "HMK art. 274/1; Expert Witness Regulation art. 52/1"
+    },
+    {
+      "id": "uyap-04",
+      "section": "Submission via UYAP",
+      "item": "Documents and items received for examination have been returned with an index of documents.",
+      "source": "HMK art. 280/1"
+    },
+    {
+      "id": "sonra-01",
+      "section": "After submission",
+      "item": "If a supplementary report or clarification is requested, each point found incomplete or unclear has been addressed separately.",
+      "source": "HMK art. 281/2"
+    },
+    {
+      "id": "sonra-02",
+      "section": "After submission",
+      "item": "Confidentiality has been maintained after the assignment ended; retention of copies of the file has been arranged accordingly.",
+      "source": "Law No. 6754 art. 3/5"
+    },
+    {
+      "id": "sonra-03",
+      "section": "After submission",
+      "item": "Expense and fee documents have been submitted in the form requested by the authority.",
+      "source": "HMK art. 283; CMK art. 72; Expert Witness Regulation art. 57"
+    }
+  ]
+}

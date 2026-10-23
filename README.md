@@ -1,46 +1,49 @@
-# Bilirkişi raporu kontrol listesi
+# Expert report checklist (Turkey)
 
 ![](assets/banner.png)
 
-Bilirkişi raporunun teslimden önce biçim ve usul yönünden gözden geçirilmesi için genel bir liste. 8 bölümde 40 madde bulunur; ilgili maddelerde mevzuat atfı verilmiştir.
+Turkish version: [tr/README.md](tr/README.md)
 
-## Dosyalar
+A general checklist for reviewing the form and procedure of a report prepared by a court-appointed expert in Turkey (bilirkişi) before it is submitted. It contains 40 items in 8 sections, with references to the relevant legislation where applicable.
 
-| Dosya | İçerik |
+## Files
+
+| File | Content |
 |---|---|
-| `KONTROL_LISTESI.md` | İşaret kutulu liste |
-| `kontrol_listesi.json` | Aynı maddeler, makine okunur biçimde (`id`, `bolum`, `madde`, `kaynak`) |
+| `CHECKLIST.md` | Checklist with tick boxes |
+| `checklist.json` | The same items in machine-readable form (`id`, `section`, `item`, `source`) |
+| `tr/` | Turkish originals (`KONTROL_LISTESI.md`, `kontrol_listesi.json`) |
 
-## Kullanım
+## Use
 
-1. `KONTROL_LISTESI.md` dosyasını kopyalayın veya yazdırın.
-2. Rapor taslağı bittiğinde maddeleri sırayla işaretleyin.
-3. İşaretlenemeyen madde varsa raporu teslim etmeden önce o noktaya dönün.
-4. Atıf verilen hükmün güncel metnini resmî kaynaktan kontrol edin.
+1. Copy or print `CHECKLIST.md`.
+2. When the draft report is complete, tick the items in order.
+3. If an item cannot be ticked, return to that point before submitting the report.
+4. Check the current text of each cited provision in the official source.
 
-## Kapsam dışı
+## Out of scope
 
-- Hukuki görüş değildir; belirli bir dosya veya uyuşmazlık hakkında değerlendirme içermez.
-- Uzmanlık alanına ait yöntem, hesap veya teknik içerik öğretmez.
-- Görevlendiren merciin talimatı ve yürürlükteki mevzuat her zaman bu listenin önündedir.
+- This is not legal advice and contains no assessment of any particular case or dispute.
+- It does not teach the methods, calculations or technical content of any field of expertise.
+- The instructions of the appointing authority and the legislation in force always take precedence over this list.
 
-## Resmî kaynaklar
+## Official sources
 
-- 6754 sayılı Bilirkişilik Kanunu: <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf>
-- Bilirkişilik Yönetmeliği (RG 03.08.2017, 30143): <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/yonetmelikler02072020033743>
-- 6100 sayılı Hukuk Muhakemeleri Kanunu, m.266-287 (bilirkişi incelemesi): <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf>
-- 5271 sayılı Ceza Muhakemesi Kanunu, m.62-73 (bilirkişi incelemesi): <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf>
-- Bilirkişilik Daire Başkanlığı, rapor şablonları: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisi-rapor-sablonlari14032022105509>
-- Bilirkişilik Daire Başkanlığı, rehber ilkeler ve rapor standartları: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisilerin-uyacagi-rehber-ilkeler-ve-bilirkisi-raporlarinda-bulunmasi-gereken-standartlar26032021121159>
-- Bilirkişilik Daire Başkanlığı, bilirkişiler için kontrol listesi: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisiler-icin-kontrol-listesi14032022105444>
-- UYAP Bilirkişi Portal: <https://bilirkisi.uyap.gov.tr/>
+- Law No. 6754 on Expert Witnesses (Bilirkişilik Kanunu): <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf>
+- Expert Witness Regulation (Bilirkişilik Yönetmeliği), Official Gazette 03.08.2017, No. 30143: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/yonetmelikler02072020033743>
+- Code of Civil Procedure (HMK), Law No. 6100, arts. 266-287 (expert examination): <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf>
+- Code of Criminal Procedure (CMK), Law No. 5271, arts. 62-73 (expert examination): <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5271.pdf>
+- Expert Witness Department (Bilirkişilik Daire Başkanlığı), report templates: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisi-rapor-sablonlari14032022105509>
+- Expert Witness Department (Bilirkişilik Daire Başkanlığı), guiding principles and report standards: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisilerin-uyacagi-rehber-ilkeler-ve-bilirkisi-raporlarinda-bulunmasi-gereken-standartlar26032021121159>
+- Expert Witness Department (Bilirkişilik Daire Başkanlığı), checklist for experts: <https://bilirkisilik.adalet.gov.tr/Home/SayfaDetay/bilirkisiler-icin-kontrol-listesi14032022105444>
+- UYAP Expert Portal (UYAP Bilirkişi Portal): <https://bilirkisi.uyap.gov.tr/>
 
-Madde numaraları 23.10.2026 tarihinde yukarıdaki metinlerden kontrol edilmiştir.
+Article numbers were checked against the texts above on 23.10.2026.
 
-## Lisans
+## License
 
-Metin CC BY 4.0 ile lisanslanmıştır; kaynak gösterilerek kopyalanabilir ve uyarlanabilir. Ayrıntı: `LICENSE`. Alıntı bilgisi: `CITATION.cff`.
+The text is licensed under CC BY 4.0; it may be copied and adapted with attribution. Details: [`LICENSE`](LICENSE). Citation: [`CITATION.cff`](CITATION.cff).
 
-Düzeltme önerisi için issue açabilirsiniz.
+Corrections are welcome via issues.
 
-Hazırlayan: BLN Design and Architecture — bilirkisiasistani.com
+Prepared by BLN Design and Architecture — bilirkisiasistani.com

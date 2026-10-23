@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-message: "Bu listeyi kullanırsanız aşağıdaki bilgilerle kaynak gösterin."
+message: "If you use this checklist, please cite it using the information below."
 type: dataset
-title: "Bilirkişi raporu kontrol listesi"
-version: 1.0.0
+title: "Expert report checklist (Turkey)"
+version: 1.1.0
 date-released: 2026-10-23
 authors:
   - name: "BLN Design and Architecture"
@@ -10,12 +10,14 @@ authors:
 url: "https://bilirkisiasistani.com"
 license: CC-BY-4.0
 languages:
+  - en
   - tr
 keywords:
   - bilirkişi
-  - bilirkişi raporu
-  - kontrol listesi
+  - expert witness
+  - expert report
+  - checklist
   - HMK
   - CMK
-  - Bilirkişilik Kanunu
-abstract: "Bilirkişi raporunun teslimden önce biçim ve usul yönünden gözden geçirilmesi için genel kontrol listesi; 40 madde, mevzuat atıflarıyla."
+  - Law No. 6754
+abstract: "A general checklist for reviewing the form and procedure of a report by a court-appointed expert in Turkey (bilirkişi) before submission; 40 items with references to legislation. Turkish version in tr/."
