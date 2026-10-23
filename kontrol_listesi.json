@@ -1,0 +1,250 @@
+{
+  "baslik": "Bilirkişi raporu kontrol listesi",
+  "surum": "1.0.0",
+  "tarih": "2026-10-23",
+  "lisans": "CC-BY-4.0",
+  "dil": "tr",
+  "madde_sayisi": 40,
+  "maddeler": [
+    {
+      "id": "gorev-01",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Görevlendiren merci, dosya numarası ve görevlendirme tarihi kontrol edildi.",
+      "kaynak": null
+    },
+    {
+      "id": "gorev-02",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Sorulan konunun uzmanlık alanına girip girmediği değerlendirildi; girmiyorsa veya başka bir uzmanla iş birliği gerekiyorsa bir hafta içinde merciye bildirildi.",
+      "kaynak": "HMK m.275/1; Bilirkişilik Yönetmeliği m.53"
+    },
+    {
+      "id": "gorev-03",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Taraflarla yakınlık, iş ilişkisi veya çekinmeyi gerektiren başka bir durum olup olmadığı incelemeye başlamadan önce değerlendirildi.",
+      "kaynak": "HMK m.272; Bilirkişilik Yönetmeliği m.9/3, m.53"
+    },
+    {
+      "id": "gorev-04",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Görev süresinin bitiş tarihi not edildi.",
+      "kaynak": "HMK m.274/1; CMK m.66/1; Bilirkişilik Yönetmeliği m.52/1"
+    },
+    {
+      "id": "gorev-05",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Süre yetmeyecekse gerekçeli ek süre talebi süre dolmadan yapıldı.",
+      "kaynak": "HMK m.274/1; CMK m.66/1; Bilirkişilik Yönetmeliği m.52/1"
+    },
+    {
+      "id": "gorev-06",
+      "bolum": "Görevlendirme ve süre",
+      "madde": "Görevin kapsamı veya sınırı hakkında tereddüt varsa açıklama merciden istendi.",
+      "kaynak": "HMK m.278/2; Bilirkişilik Yönetmeliği m.54/2"
+    },
+    {
+      "id": "dosya-01",
+      "bolum": "Dosya inceleme",
+      "madde": "Teslim alınan dosya ve ekler dizi pusulasıyla karşılaştırıldı; eksikler listelendi.",
+      "kaynak": null
+    },
+    {
+      "id": "dosya-02",
+      "bolum": "Dosya inceleme",
+      "madde": "İnceleme için gereken ek kayıt ve belgeler bir hafta içinde merciden istendi.",
+      "kaynak": "HMK m.275/2; Bilirkişilik Yönetmeliği m.54/1"
+    },
+    {
+      "id": "dosya-03",
+      "bolum": "Dosya inceleme",
+      "madde": "Merciin soruları tek tek listelendi ve her sorunun raporda cevaplanacağı yer belirlendi.",
+      "kaynak": null
+    },
+    {
+      "id": "dosya-04",
+      "bolum": "Dosya inceleme",
+      "madde": "Dosyadaki bilgi ve belgeler gizli tutuldu; üçüncü kişilerle ve dosyayla ilgisi olmayan dış hizmetlerle paylaşılmadı.",
+      "kaynak": "6754 sayılı Kanun m.3/5; HMK m.277"
+    },
+    {
+      "id": "dosya-05",
+      "bolum": "Dosya inceleme",
+      "madde": "İnceleme bizzat yapıldı; görevin hiçbir kısmı başkasına bırakılmadı.",
+      "kaynak": "6754 sayılı Kanun m.3/4; HMK m.276"
+    },
+    {
+      "id": "kesif-01",
+      "bolum": "Keşif ve inceleme",
+      "madde": "Bir şey üzerinde inceleme gerekiyorsa bunun için merciin kararı bulunduğu kontrol edildi.",
+      "kaynak": "HMK m.278/4"
+    },
+    {
+      "id": "kesif-02",
+      "bolum": "Keşif ve inceleme",
+      "madde": "Keşif veya inceleme sırasında hazır bulunanlar kayda geçirildi.",
+      "kaynak": null
+    },
+    {
+      "id": "kesif-03",
+      "bolum": "Keşif ve inceleme",
+      "madde": "Tespitler yer, tarih ve saat bilgisiyle kaydedildi; fotoğraflar numaralandı.",
+      "kaynak": null
+    },
+    {
+      "id": "kesif-04",
+      "bolum": "Keşif ve inceleme",
+      "madde": "Taraf bilgisine başvurulacaksa merciin uygun bulması arandı; bir taraf yokken diğeri dinlenmedi.",
+      "kaynak": "HMK m.278/3"
+    },
+    {
+      "id": "kesif-05",
+      "bolum": "Keşif ve inceleme",
+      "madde": "Keşifte taraflarla dosya dışı konuşma yapılmadı, görüş açıklanmadı.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.8/2"
+    },
+    {
+      "id": "yapi-01",
+      "bolum": "Raporun yapısı",
+      "madde": "Görevlendiren merci, dosya numarası, taraf bilgileri, görevlendirme tarihi ve süresi yazıldı.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/1-a, b, c, ç; HMK m.279/2"
+    },
+    {
+      "id": "yapi-02",
+      "bolum": "Raporun yapısı",
+      "madde": "İncelemenin konusu, incelenmesi istenen maddi unsurlar ve incelenen belgelerin listesi verildi.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/1-d, e"
+    },
+    {
+      "id": "yapi-03",
+      "bolum": "Raporun yapısı",
+      "madde": "İnceleme yöntemi ile bilimsel ve teknik dayanaklar gösterildi.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/1-f, g"
+    },
+    {
+      "id": "yapi-04",
+      "bolum": "Raporun yapısı",
+      "madde": "Her soruya ayrı ve gerekçeli cevap verildi; cevapsız soru kalmadı.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/1-ğ; CMK m.67/1"
+    },
+    {
+      "id": "yapi-05",
+      "bolum": "Raporun yapısı",
+      "madde": "Sonuç bölümü ile değerlendirme bölümü arasında çelişki olmadığı okunarak kontrol edildi.",
+      "kaynak": null
+    },
+    {
+      "id": "yapi-06",
+      "bolum": "Raporun yapısı",
+      "madde": "Birden çok bilirkişi varsa görüş ayrılığı gerekçesiyle yazıldı.",
+      "kaynak": "HMK m.279/2; CMK m.67/2; Bilirkişilik Yönetmeliği m.55/2"
+    },
+    {
+      "id": "yapi-07",
+      "bolum": "Raporun yapısı",
+      "madde": "Düzenleme tarihi ile bilirkişinin kimlik ve imza bilgileri yer aldı.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/1-h, ı; HMK m.279/2"
+    },
+    {
+      "id": "yapi-08",
+      "bolum": "Raporun yapısı",
+      "madde": "Biçim, Bilirkişilik Daire Başkanlığının rapor şablonları ve rehber ilkeleriyle karşılaştırıldı.",
+      "kaynak": "Bilirkişilik Daire Başkanlığı, rapor şablonları ve rehber ilkeler"
+    },
+    {
+      "id": "dil-01",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Rapor, çözümü uzmanlık, özel veya teknik bilgi gerektiren konularla sınırlı kaldı.",
+      "kaynak": "6754 sayılı Kanun m.3/2; HMK m.279/4; CMK m.67/3"
+    },
+    {
+      "id": "dil-02",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Hâkime ait hukuki nitelendirme ve değerlendirme yapılmadı.",
+      "kaynak": "6754 sayılı Kanun m.3/2; HMK m.279/4; CMK m.67/3; Bilirkişilik Yönetmeliği m.55/4"
+    },
+    {
+      "id": "dil-03",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Dil tarafsız; taraflardan birini kayıran veya küçük düşüren ifade yok.",
+      "kaynak": "6754 sayılı Kanun m.3/1"
+    },
+    {
+      "id": "dil-04",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Varsayımlar açıkça varsayım olarak belirtildi ve dayanağı yazıldı.",
+      "kaynak": null
+    },
+    {
+      "id": "dil-05",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Görev süresince taraflardan uzman görüşü, danışmanlık veya benzeri bir iş kabul edilmedi.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.9/2"
+    },
+    {
+      "id": "dil-06",
+      "bolum": "Dil ve sınırlar",
+      "madde": "Etik dışı veya hukuka aykırı bir talep olduysa durum merciye bildirildi.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.13"
+    },
+    {
+      "id": "ekler-01",
+      "bolum": "Ekler ve imza",
+      "madde": "Şema, kroki, fotoğraf ve tablo gibi ekler numaralandı, metinde atıf yapıldı ve ek listesiyle birebir eşleşiyor.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.55/3"
+    },
+    {
+      "id": "ekler-02",
+      "bolum": "Ekler ve imza",
+      "madde": "Kişisel veriler raporun amacını aşmayacak ölçüde yer aldı.",
+      "kaynak": null
+    },
+    {
+      "id": "ekler-03",
+      "bolum": "Ekler ve imza",
+      "madde": "Rapor güvenli elektronik imza ile imzalandı.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.85/5"
+    },
+    {
+      "id": "uyap-01",
+      "bolum": "UYAP teslimi",
+      "madde": "Rapor doğru dosyaya ve doğru merciye UYAP Bilirkişi Portal üzerinden yüklendi.",
+      "kaynak": "Bilirkişilik Yönetmeliği m.85/5"
+    },
+    {
+      "id": "uyap-02",
+      "bolum": "UYAP teslimi",
+      "madde": "Yüklenen dosya açılarak son sürüm olduğu ve eklerin tam olduğu kontrol edildi.",
+      "kaynak": null
+    },
+    {
+      "id": "uyap-03",
+      "bolum": "UYAP teslimi",
+      "madde": "Teslim tarihi verilen süre içinde.",
+      "kaynak": "HMK m.274/1; Bilirkişilik Yönetmeliği m.52/1"
+    },
+    {
+      "id": "uyap-04",
+      "bolum": "UYAP teslimi",
+      "madde": "İncelenmek üzere teslim alınan belge ve eşyalar dizi pusulasıyla iade edildi.",
+      "kaynak": "HMK m.280/1"
+    },
+    {
+      "id": "sonra-01",
+      "bolum": "Teslim sonrası",
+      "madde": "Ek rapor veya açıklama istenirse eksik ve belirsiz görülen hususlar ayrı ayrı ele alındı.",
+      "kaynak": "HMK m.281/2"
+    },
+    {
+      "id": "sonra-02",
+      "bolum": "Teslim sonrası",
+      "madde": "Görev bittikten sonra da gizlilik sürdürüldü; dosya kopyalarının saklanması buna göre düzenlendi.",
+      "kaynak": "6754 sayılı Kanun m.3/5"
+    },
+    {
+      "id": "sonra-03",
+      "bolum": "Teslim sonrası",
+      "madde": "Gider ve ücret belgeleri merciin istediği biçimde sunuldu.",
+      "kaynak": "HMK m.283; CMK m.72; Bilirkişilik Yönetmeliği m.57"
+    }
+  ]
+}
